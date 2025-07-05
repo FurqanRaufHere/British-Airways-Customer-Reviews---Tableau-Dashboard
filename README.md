@@ -10,5 +10,5 @@ This project explores British Airways customer reviews data, transforming raw in
 ## Key Features:
 - Trend Analysis: Displays overall rating trends over time (2016-2022).
 - Geographical Insights: Maps country-wise average ratings.
-- Aircraft Comparisons: Compares customer satisfaction across different aircraft models.
+- Aircraft Comparisons: Compares customer satisfaction across different aircraft models
 - Filter Options: Users can filter data by traveler type, seat class, and other attributes.
